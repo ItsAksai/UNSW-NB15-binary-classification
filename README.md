@@ -7,6 +7,6 @@ The project is my first and deals with binary classification on the UNSW-NB15 da
 1. Preprocessing.ipnyb:
 Loading, cleanning, formatting, transforming of the dataset along with use of functions to streamline the process
 
-2.ML.ipnyb:
+2. ML.ipnyb:
 Applying various machine learning algorithms (Logistic Regression, Decision Trees, Random Forest, XGBoost) and functions to visualise and tabulate the results
 
